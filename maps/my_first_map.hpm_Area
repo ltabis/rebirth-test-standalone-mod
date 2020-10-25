@@ -1,0 +1,11 @@
+<HPLMapTrack_Area ID="1AD5451E416FC0133D13486CC287064FA2127EBB" Version="1.00">
+    <Section Name="tabRy@DESKTOP-R9M0VFV">
+        <Objects>
+            <Area ID="268435468" Name="PlayerStartArea_1" CreStamp="1603593190" ModStamp="1603593208" WorldPos="0 1 0.25" Rotation="0 0 0" Scale="0.7 1.9 0.7" Active="true" Mesh="" UID="16 30 268435468" AreaType="PlayerStart">
+                <UserVariables>
+                    <Var Name="Crouching" Value="false" />
+                </UserVariables>
+            </Area>
+        </Objects>
+    </Section>
+</HPLMapTrack_Area>

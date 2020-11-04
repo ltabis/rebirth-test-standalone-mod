@@ -1,13 +1,30 @@
 <PreloadCache>
     <Materials>
-        <Material DebugPos="-1.000000 : 1.531250 : 5.000000" Path="entities/station/doors/slidedoor_theta_small/slidedoor_theta_small.mat" />
+        <Material DebugPos="-1.000000 : 1.625000 : 5.000000" Path="entities/station/doors/slidedoor_theta_small/slidedoor_theta_small.mat" />
+        <Material DebugPos="2.250001 : 2.000000 : -4.827608" Path="entities/station/furniture/cabinet_life_vest/cabinet_life_vest.mat" />
+        <Material DebugPos="0.746149 : 0.650459 : -2.757183" Path="entities/station/furniture/chair_community_room/chair_community_room.mat" />
+        <Material DebugPos="0.746149 : 0.650459 : -2.757183" Path="entities/station/furniture/chair_community_room/chair_community_room_red.mat" />
+        <Material DebugPos="-4.234982 : 1.849995 : -1.500001" Path="entities/station/furniture/desk_work_cabin/desk_work_cabin.mat" />
+        <Material DebugPos="-2.750000 : 0.788234 : -4.500003" Path="entities/station/furniture/file_cabinet_theta_large/file_cabinet_theta_large_body.mat" />
+        <Material DebugPos="-3.487237 : 1.117215 : -4.314214" Path="entities/station/furniture/locker_cabin/locker_cabin.mat" />
+        <Material DebugPos="3.750000 : 1.756580 : -2.750000" Path="entities/station/furniture/noticeboard_freestanding/cork.mat" />
+        <Material DebugPos="3.751839 : 1.293328 : -2.751061" Path="entities/station/furniture/noticeboard_freestanding/whiteboard_freestanding.mat" />
+        <Material DebugPos="2.219592 : 0.500376 : -4.447332" Path="entities/station/furniture/trash_can_theta/trash_can_theta.mat" />
+        <Material DebugPos="2.241067 : 0.499462 : -4.478267" Path="entities/station/furniture/trash_can_theta/trash_can_theta_insides.mat" />
         <Material DebugPos="3.000000 : 3.875000 : -3.000000" Path="entities/station/lamp/ceiling_shutter_large/ceiling_shutter_large_white.mat" />
+        <Material DebugPos="-0.999999 : 3.505345 : 4.747893" Path="entities/station/lamp/fluorescent_tube_slidedoor_medium/fluorescent_tube_slidedoor_medium.mat" />
+        <Material DebugPos="-0.506346 : 1.122925 : -4.247659" Path="entities/station/ornaments/akers_medicine/akers_medicine.mat" />
         <Material DebugPos="-2.747008 : 1.748480 : 5.231565" Path="entities/station/panels/laboratory/laboratory.mat" />
         <Material DebugPos="-2.740525 : 1.301698 : 4.539763" Path="entities/station/panels/theta_panel_lightswitch/theta_panel.mat" />
         <Material DebugPos="-2.740525 : 1.301699 : 4.539763" Path="entities/station/panels/theta_panel_lightswitch/theta_panel_lightswitch.mat" />
-        <Material DebugPos="0.000000 : -0.000500 : 10.000000" Path="static_objects/station/floor/metal_tile_pattern.mat" />
-        <Material DebugPos="0.000000 : 3.999513 : 10.000000" Path="static_objects/station/roof/roof_extruded_panel.mat" />
-        <Material DebugPos="0.000000 : 2.002260 : 9.999998" Path="static_objects/station/walls/lab_set.mat" />
-        <Material DebugPos="0.000000 : 2.002260 : 9.999999" Path="static_objects/station/walls/lab_set_rusty.mat" />
+        <Material DebugPos="0.943800 : 1.285136 : -4.302861" Path="entities/station/terminals/ark_testing_terminal/ark_testing_equipment_01.mat" />
+        <Material DebugPos="0.861521 : 1.344663 : -4.152269" Path="entities/station/terminals/ark_testing_terminal/screen_small.mat" />
+        <Material DebugPos="0.124055 : 1.469602 : -4.438085" Path="entities/station/terminals/monitor_theta_terminal/monitor_theta.mat" />
+        <Material DebugPos="4.000025 : 2.750122 : -4.984375" Path="entities/station/utility/air_vent/door_hatch_slide_ventilation_white.mat" />
+        <Material DebugPos="2.000000 : 0.740585 : 4.500000" Path="entities/station/utility/ventilation_airfreshener/ventilation_airfreshener.mat" />
+        <Material DebugPos="0.000000 : -0.000500 : 0.000000" Path="static_objects/station/floor/metal_tile_pattern.mat" />
+        <Material DebugPos="0.000000 : 3.999513 : 0.000000" Path="static_objects/station/roof/roof_extruded_panel.mat" />
+        <Material DebugPos="0.000000 : 2.002260 : -0.000002" Path="static_objects/station/walls/lab_set.mat" />
+        <Material DebugPos="0.000000 : 2.002260 : 0.001531" Path="static_objects/station/walls/lab_set_rusty.mat" />
     </Materials>
 </PreloadCache>

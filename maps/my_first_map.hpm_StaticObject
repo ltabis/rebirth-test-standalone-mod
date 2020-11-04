@@ -1,16 +1,26 @@
 <HPLMapTrack_StaticObject ID="1AD5451E416FC0133D13486CC287064FA2127EBB" Version="1.00">
     <Section Name="tabRy@DESKTOP-R9M0VFV">
-        <FileIndex_StaticObjects NumOfFiles="5">
+        <FileIndex_StaticObjects NumOfFiles="16">
             <File Id="0" Path="static_objects/urban/roof/waitingroom_board_square.dae" />
             <File Id="1" Path="static_objects/station/walls/lab_flat.dae" />
             <File Id="2" Path="static_objects/station/walls/lab_flat_short_rusty.dae" />
             <File Id="3" Path="static_objects/station/walls/lab_convex_skinny.dae" />
             <File Id="4" Path="static_objects/station/walls/lab_doorway.dae" />
+            <File Id="5" Path="static_objects/station/tunnel/02_06_water_service_room_special.dae" />
+            <File Id="6" Path="static_objects/station/tunnel/05_01_adon_box_large.DAE" />
+            <File Id="7" Path="static_objects/station/tunnel/airlock_tau.dae" />
+            <File Id="8" Path="static_objects/station/tunnel/tau_tunnel_straight_extender.dae" />
+            <File Id="9" Path="static_objects/station/tunnel/trainstation_maintenance_tunnels_straight_hatch_side.dae" />
+            <File Id="10" Path="static_objects/station/tunnel/trainstation_maintenance_tunnels_end_open.dae" />
+            <File Id="11" Path="static_objects/station/walls/lab_vents_long_special.dae" />
+            <File Id="12" Path="static_objects/station/walls/pplant_ground_short_tunnel_exit.dae" />
+            <File Id="13" Path="static_objects/station/walls/pplant_bulkhead_tunnel_exit.dae" />
+            <File Id="14" Path="static_objects/station/walls/pplant_ground_short_vent_hole.dae" />
+            <File Id="15" Path="static_objects/station/walls/lab_flat_short_vent.dae" />
         </FileIndex_StaticObjects>
         <Objects>
             <StaticObject ID="268435474" Name="station_walls_lab_flat_1" CreStamp="1604465495" ModStamp="1604465552" WorldPos="-3 0 -5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="1" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 43 268435474" />
             <StaticObject ID="268435475" Name="station_walls_lab_flat_2" CreStamp="1604465558" ModStamp="1604465562" WorldPos="1 0 -5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="1" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 55 268435475" />
-            <StaticObject ID="268435476" Name="station_walls_lab_flat_3" CreStamp="1604465563" ModStamp="1604465597" WorldPos="4 0 -5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="2" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="false" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 44 268435476" />
             <StaticObject ID="268435481" Name="station_walls_lab_flat_4" CreStamp="1604465563" ModStamp="1604465597" WorldPos="-4 0 5" Rotation="0 4.13264e-007 0" Scale="1 1 1" FileIndex="2" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="false" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 103 268435481" />
             <StaticObject ID="268435482" Name="station_walls_lab_flat_5" CreStamp="1604465558" ModStamp="1604466084" WorldPos="-1 0 5" Rotation="0 4.13264e-007 0" Scale="1 1 1" FileIndex="4" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="false" CulledByFog="false" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 102 268435482" />
             <StaticObject ID="268435483" Name="station_walls_lab_flat_6" CreStamp="1604465495" ModStamp="1604465552" WorldPos="3 0 5" Rotation="0 4.13264e-007 0" Scale="1 1 1" FileIndex="1" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 104 268435483" />
@@ -32,6 +42,7 @@
             <StaticObject ID="268435512" Name="station_walls_lab_flat_22" CreStamp="1604466088" ModStamp="1604466094" WorldPos="-4 0 5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="2" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="false" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 69 268435512" />
             <StaticObject ID="268435513" Name="station_walls_lab_flat_23" CreStamp="1604466088" ModStamp="1604466094" WorldPos="-1 0 5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="4" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="false" CulledByFog="false" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 68 268435513" />
             <StaticObject ID="268435514" Name="station_walls_lab_flat_24" CreStamp="1604466088" ModStamp="1604466094" WorldPos="3 0 5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="1" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 71 268435514" />
+            <StaticObject ID="268435544" Name="station_walls_lab_flat_short_vent_1" CreStamp="1604494610" ModStamp="1604494628" WorldPos="4 0 -5" Rotation="-0 3.14159 -0" Scale="1 1 1" FileIndex="15" Collides="true" CastShadows="true" IsOccluder="true" ColorMul="1 1 1 1" CulledByDistance="true" CulledByFog="true" IllumColor="1 1 1 1" IllumBrightness="1" UID="16 137 268435544" />
         </Objects>
     </Section>
 </HPLMapTrack_StaticObject>

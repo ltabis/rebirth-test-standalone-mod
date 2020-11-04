@@ -1,11 +1,6 @@
 <HPLMapTrack_Compound ID="1AD5451E416FC0133D13486CC287064FA2127EBB" Version="1.00">
     <Section Name="tabRy@DESKTOP-R9M0VFV">
         <Objects>
-            <Compound ID="268435480" Name="Compound_1" CreStamp="0" ModStamp="1604465664" WorldPos="0.5 0 -5" Rotation="0 0 0" Scale="1 1 1" UID="16 58 268435480">
-                <Component ID="268435476" />
-                <Component ID="268435475" />
-                <Component ID="268435474" />
-            </Compound>
             <Compound ID="268435488" Name="Compound_3" CreStamp="1604465692" ModStamp="1604465714" WorldPos="-5 0 -0.5" Rotation="0 1.5708 0" Scale="1 1 1" UID="16 47 268435488">
                 <Component ID="268435485" />
                 <Component ID="268435486" />

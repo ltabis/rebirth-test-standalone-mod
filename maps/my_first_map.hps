@@ -76,17 +76,6 @@ class cScrMap : iScrMap
 	void OnAction(int alAction, bool abPressed) 
 	{
 		if(abPressed==false) return;
-		
-		if(alAction == eAction_Test1) {
-			cLux_AddDebugMessage("Light on!");
-			Light_SetVisible("worklight", true);
-		}
-
-		if(alAction == eAction_Test2)
-		{
-			cLux_AddDebugMessage("Light off!");
-			Light_SetVisible("worklight", false);
-		}
 	}
 
 	//-------------------------------------------------------

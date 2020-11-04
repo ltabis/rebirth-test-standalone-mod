@@ -34,7 +34,6 @@ class cScrMap : iScrMap
 	// Set up map environment
 	void Setup()
 	{
-	
 	}
 	
 	//-------------------------------------------------------
@@ -43,7 +42,7 @@ class cScrMap : iScrMap
 	// Run first time starting map
 	void OnStart()
 	{
-		
+
 	}
 
 	//-------------------------------------------------------
@@ -78,8 +77,15 @@ class cScrMap : iScrMap
 	{
 		if(abPressed==false) return;
 		
-		if(alAction == eAction_Test1)
+		if(alAction == eAction_Test1) {
+			cLux_AddDebugMessage("Light on!");
+			Light_SetVisible("worklight", true);
+		}
+
+		if(alAction == eAction_Test2)
 		{
+			cLux_AddDebugMessage("Light off!");
+			Light_SetVisible("worklight", false);
 		}
 	}
 

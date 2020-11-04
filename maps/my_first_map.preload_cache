@@ -1,0 +1,7 @@
+<PreloadCache>
+    <Materials>
+        <Material DebugPos="-1.000000 : 0.022103 : 0.250000" Path="static_objects/urban/roof/waitingroom_board_bracket.mat" />
+        <Material DebugPos="0.500000 : -0.006104 : 0.250000" Path="static_objects/urban/roof/waitingroom_boards.mat" />
+        <Material DebugPos="-1.000951 : 0.007208 : 0.250720" Path="static_objects/urban/roof/waitingroom_boards_damaged.mat" />
+    </Materials>
+</PreloadCache>

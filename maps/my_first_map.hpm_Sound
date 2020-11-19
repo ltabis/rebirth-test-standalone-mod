@@ -1,7 +1,5 @@
-<HPLMapTrack_Sound ID="1AD5451E416FC0133D13486CC287064FA2127EBB" Version="1.00">
-    <Section Name="tabRy@DESKTOP-R9M0VFV">
-        <Objects>
-            <Sound ID="268435532" Name="Sound_1" CreStamp="1604494200" ModStamp="1604494333" WorldPos="-1 1.75 4.75" Rotation="0 0 0" Scale="1 1 1" SoundEntityFile="01_01_upsilon_awake/amb/spot/aquarium_entrance_01" MinDistance="3" MaxDistance="12" Volume="1" Active="true" UseCustomProperties="false" UID="16 138 268435532" />
-        </Objects>
+<HPLMapTrack_Sound ID="AB6682981D733907D998881BC7F5DBECA1F0CB45" MajorVersion="1" MinorVersion="1">
+    <Section Name="15574194825727197262">
+        <Objects />
     </Section>
 </HPLMapTrack_Sound>
